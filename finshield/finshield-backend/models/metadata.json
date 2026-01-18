@@ -1,0 +1,13 @@
+{
+  "model_type": "GradientBoostingClassifier",
+  "training_date": "2026-01-02T13:14:21.996100",
+  "accuracy": 0.946,
+  "features": [
+    "keystroke_speed",
+    "touch_pressure",
+    "device_tilt",
+    "payment_amount",
+    "merchant_type",
+    "time_of_day"
+  ]
+}
